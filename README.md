@@ -100,6 +100,7 @@ hkm.dailySteps { (results) in
     (statistics, stop) in
     // get total sum of steps
     guard let sum = statistics.sumQuantity() else { return }
+    let steps = sum.doubleValue(for: .count())
     ...
 }
 
