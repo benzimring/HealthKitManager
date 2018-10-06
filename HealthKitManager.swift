@@ -14,6 +14,7 @@ extension HKObjectType {
     static let variabilityType = HKQuantityType.quantityType(forIdentifier: .heartRateVariabilitySDNN)!
     static let restingHeartRateType = HKQuantityType.quantityType(forIdentifier: .restingHeartRate)!
     static let stepsType = HKQuantityType.quantityType(forIdentifier: .stepCount)!
+    static let workoutType = HKObjectType.workoutType()
 }
 
 /* useful for converting from HealthKit's weird output formats */
