@@ -3,7 +3,7 @@ HealthKitManager is a (fairly) comprehensive collection of closure-based methods
 
 ## Adding to your project
 
-Either clone this repo and copy the `HealthKitManager.swift` file into your project, or copy & paste the raw text to new swift file.
+Either clone this repo and copy the `HealthKitManager.swift` file into your project, or copy & paste the raw text to a new swift file.
 
 ## Usage
 
