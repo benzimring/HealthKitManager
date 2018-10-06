@@ -1,2 +1,2 @@
 # HealthKitManager
-a (fairly) comprehensive collections of HealthKit methods to make querying easier
+a (fairly) comprehensive collection of HealthKit methods to make querying easier
