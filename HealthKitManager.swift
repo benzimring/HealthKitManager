@@ -1,9 +1,8 @@
 //
 //  HealthKitManager.swift
-//  Cardiologic
 //
 //  Created by Ben Zimring on 7/25/18.
-//  do whatever you'd like with this file.
+//  do whatever you'd like with this file
 //
 
 import Foundation
